@@ -1,18 +1,15 @@
-## Getting Started
+ALGORITMO CONDICIONALES
 
-Welcome to the VS Code Java world. Here is a guideline to help you get started to write Java code in Visual Studio Code.
+Desarrollar un algoritmo que permita calcular el salario de un empleado teniendo en cuenta que:
 
-## Folder Structure
-
-The workspace contains two folders by default, where:
-
-- `src`: the folder to maintain sources
-- `lib`: the folder to maintain dependencies
-
-Meanwhile, the compiled output files will be generated in the `bin` folder by default.
-
-> If you want to customize the folder structure, open `.vscode/settings.json` and update the related settings there.
-
-## Dependency Management
-
-The `JAVA PROJECTS` view allows you to manage your dependencies. More details can be found [here](https://github.com/microsoft/vscode-java-dependency#manage-dependencies).
+Se debe implementar el valor de la hora
+Se debe ingresar la cantidad de horas
+Se debe ingresar el nombre del empleado
+Se debe ingresar numero de documento de identidad
+El empleado podra seleccionar un dia de descanso de Lunes a Viernes
+El empleado tendra auxilio de transporte si su salario bruto no supera los 2 SMLV
+El empleado recibira una bonificacion del 10% sobre su salario bruto si no supera los 2 SMLV
+El empleado no podra trabajar menos de 12 horas
+El empleado recibira pago de horas extras si supera las 96 horas
+Calcular las deducciones del salud y pensiones
+El sistema debe mostrar toda la informacion del empleado de manera detallada
