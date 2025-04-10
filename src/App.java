@@ -51,7 +51,6 @@ public class App {
         } else {
             salarioNeto = salarioBruto - deduccionPension - deduccionSalud + auxilioTransporte + bonificacionEmpleado
                     + totalValorHorasExtras;
-            System.out.println("El salario neto del empleado es: " + salarioNeto);
         }
 
         System.out.println("El nombre del empleado es:" + nombreEmpleado);
